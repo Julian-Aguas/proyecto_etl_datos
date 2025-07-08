@@ -104,10 +104,6 @@ El script `etl_tibc.py` puede ser programado para ejecutarse diariamente usando 
 
 Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, no dudes en abrir un *issue* o enviar un *pull request*.
 
-##  Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
 ##  Contacto
 
 **Julián Aguas**
